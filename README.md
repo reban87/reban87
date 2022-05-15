@@ -28,31 +28,3 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reban87&theme=radical)
 ![Thinam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reban87&hide=prs,issues,contribs?username=reban87&count_private=true?username=reban87&show_icons=true&theme=radical)
 
-<!-- **Quick Access:**
-<!-- - Google's pretrained Word2vec Model :
-
-```javascript
-!wget -c "https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz"
-``` -->
-- Fast.ai : 
-
-```python
-!pip install -Uqq fastbook
-import fastbook
-fastbook.setup_book()
-``` -->
-
-<!--
-**ThinamXx/ThinamXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working as a Developer Internship at [**Information and Language Processing Research Lab**](https://ilprl.ku.edu.np/)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
