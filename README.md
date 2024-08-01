@@ -9,7 +9,7 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 - [**Near Well Simulations Of Heavy Oil Production With ICD Completion**](https://www.witpress.com/elibrary/wit-transactions-on-engineering-sciences/79/24924)
 
 **Updates:**
-- 🔭 I’m currently working as an NLP Developer at [**RPA Labs**](https://rpalabs.com/)
+- 🔭 I’m currently working as Sr. AI Engineer at [**TechKraft Inc**](https://techkraftinc.com/)
 - 🔭 I’m also working on a Research paper related to **Forest Fire Detection using Attention Net CNN.** 
 - 🌱 I’m currently learning **NLP**. 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
