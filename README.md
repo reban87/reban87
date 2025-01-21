@@ -11,7 +11,7 @@ I am a deep learning and machine learning practitioner and learner. Solving a pr
 **Updates:**
 - 🔭 I’m currently working as Sr. AI Engineer at [**TechKraft Inc**](https://techkraftinc.com/)
 - 🔭 I’m also working on a Research paper related to **Forest Fire Detection using Attention Net CNN.** 
-- 🌱 I’m currently learning **NLP**. 
+- 🌱 I’m currently practising **GenAI**, **Agentic RAG**, **LLM**. 
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 
 <!-- ### Connect with me 🤝: -->
